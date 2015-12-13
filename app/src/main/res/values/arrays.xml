@@ -1,13 +1,15 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-
-    <string-array name="pref_units_options">
-        <item>@string/pref_units_label_metric</item>
-        <item>@string/pref_units_label_imperial</item>
+    <string-array name="location_names">
+        <item>Dublin,IE</item>
+        <item>Cork,IE</item>
+        <item>Galway,IE</item>
+        <item>Donegal,IE</item>
     </string-array>
-
-    <string-array name="pref_units_values">
-        <item>@string/pref_units_metric</item>
-        <item>@string/pref_units_imperial</item>
+    <string-array name="location_labels">
+        <item>Dublin</item>
+        <item>Cork</item>
+        <item>Galway</item>
+        <item>Donegal</item>
     </string-array>
 </resources>
