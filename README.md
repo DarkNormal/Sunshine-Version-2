@@ -1,3 +1,8 @@
+This is my work following along with the Udacity course. The course itself is aimed at people with a year or 2 experience in OOP, and I felt it would be good for me and my skills to get some guidance on my mobile development techniques. I'm rusting with AsyncTasks and other quite important stuff, and I'll be using these a lot during my 4th year project so some practice is always good.
+
+
+
+
 Sunshine
 ========
 
